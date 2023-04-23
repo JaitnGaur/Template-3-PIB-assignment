@@ -278,6 +278,9 @@ footer hr {
     .margin-a-md {
         margin: 0 auto;
     }
+    .footer_lower-div-cont {
+        justify-content: center;
+    }
 }
 @media(max-width:475px) {
     .margin-a-ss {
