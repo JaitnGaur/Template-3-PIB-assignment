@@ -234,8 +234,11 @@ header {
     padding: 50px 0;
 }
 footer {
-    background-color: #d6d6d6;
-    padding: 50px 0;
+    background-color: #f7f3f3;
+    padding-top: 50px;
+}
+.footer__upper-div {
+    padding-bottom: 50px;
 }
 footer hr {
     width: 40px;
@@ -253,6 +256,10 @@ footer hr {
     padding: 5px;
     opacity: 0.5;
     border: 1px solid #000000;
+}
+.footer_lower-div {
+    background-color: #f0ecec;
+    padding: 10px 0;
 }
 @media(max-width:768px) {
     header nav {
